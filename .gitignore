@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#the racist
+#the-racist
 .DS_Store
